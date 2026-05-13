@@ -1,4 +1,4 @@
-<h1 align="center">🪄 Sadeq Fatemikia | صادق فاطمی‌کیا</h1>
+<h1 align="center"> Sadeq Fatemikia | صادق فاطمی‌کیا</h1>
 <p align="center">
   <strong>Backend Developer</strong> crafting robust APIs with Django & DRF<br>
   <code>3+ years of turning ideas into real‑world web applications</code>
