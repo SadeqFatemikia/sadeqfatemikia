@@ -1,16 +1,19 @@
-## Hi there 👋
+# Sadeq Fatemikia - Backend Developer
 
-<!--
-**SadeqFatemikia/sadeqfatemikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer with 3+ years of experience building real-world web applications. Based in Hamedan, Iran, I specialize in developing RESTful APIs with Django and Django REST Framework.
 
-Here are some ideas to get you started:
+- ?? **Currently working on:** E-commerce platforms (Kadoochi, ZigZag Boutique) & Todo startup (Fardaynoo)
+- ?? **Expanding into:** Redis, Docker, Microservices, and TDD
+- ?? **Ask me about:** Django, DRF, Celery, PostgreSQL
+- ?? **Goal:** Ship clean, maintainable, and well-tested backend code
+- ? **Fun fact:** I love solving real-world problems with technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Tools:**  
+`Python` `Django` `DRF` `Celery` `RabbitMQ` `PostgreSQL` `Git` `Bootstrap`
+
+**Contact:**  
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Sadeghfk6@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/sadeqfk)
+
+---
+?? How to reach me: **Sadeghfk6@gmail.com**
