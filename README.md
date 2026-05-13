@@ -1,7 +1,16 @@
-<h1 align="center"> Sadeq Fatemikia | صادق فاطمی‌کیا</h1>
+<h1 align="center">🪄 Sadeq Fatemikia | صادق فاطمی‌کیا</h1>
 <p align="center">
-  <strong>Backend Developer</strong> crafting robust APIs with Django & DRF<br>
+  <strong>Backend Developer</strong> crafting robust APIs with Django &amp; DRF<br>
   <code>3+ years of turning ideas into real‑world web applications</code>
+</p>
+
+<p align="center">
+  <a href="mailto:Sadeghfk6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SadeqFatemikia">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -32,24 +41,11 @@ I’m a big fan of turning coffee ☕ into APIs and solving everyday problems wi
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,rabbitmq,celery,js,git,linux,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,rabbitmq,redis,celery,git,linux,bootstrap" />
 </p>
 
 **Core Skills:**  
-`Python` • `Django` • `Django REST Framework (DRF)` • `Celery` • `RabbitMQ` • `PostgreSQL` •
-
----
-
-### 📫 How to reach me
-
-<p align="left">
-  <a href="mailto:Sadeghfk6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/SadeqFatemikia">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+`Python` • `Django` • `Django REST Framework (DRF)` • `Celery` • `RabbitMQ` • `PostgreSQL` • `Redis`
 
 ---
 
