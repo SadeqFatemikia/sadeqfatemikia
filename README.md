@@ -46,7 +46,7 @@ I’m a big fan of turning coffee ☕ into APIs and solving everyday problems wi
   <a href="mailto:Sadeghfk6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/sadeqfk">
+  <a href="https://github.com/SadeqFatemikia">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
