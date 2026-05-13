@@ -32,8 +32,11 @@ I’m a big fan of turning coffee ☕ into APIs and solving everyday problems wi
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,rabbitmq,redis,git,docker,linux,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,rabbitmq,celery,js,git,linux,bootstrap" />
 </p>
+
+**Core Skills:**  
+`Python` • `Django` • `Django REST Framework (DRF)` • `Celery` • `RabbitMQ` • `PostgreSQL` •
 
 ---
 
