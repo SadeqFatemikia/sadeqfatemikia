@@ -1,19 +1,53 @@
-# Sadeq Fatemikia - Backend Developer
-
-I'm a Backend Developer with 3+ years of experience building real-world web applications. Based in Hamedan, Iran, I specialize in developing RESTful APIs with Django and Django REST Framework.
-
-- ?? **Currently working on:** E-commerce platforms (Kadoochi, ZigZag Boutique) & Todo startup (Fardaynoo)
-- ?? **Expanding into:** Redis, Docker, Microservices, and TDD
-- ?? **Ask me about:** Django, DRF, Celery, PostgreSQL
-- ?? **Goal:** Ship clean, maintainable, and well-tested backend code
-- ? **Fun fact:** I love solving real-world problems with technology
-
-**Languages & Tools:**  
-`Python` `Django` `DRF` `Celery` `RabbitMQ` `PostgreSQL` `Git` `Bootstrap`
-
-**Contact:**  
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Sadeghfk6@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/sadeqfk)
+<h1 align="center">🪄 Sadeq Fatemikia | صادق فاطمی‌کیا</h1>
+<p align="center">
+  <strong>Backend Developer</strong> crafting robust APIs with Django & DRF<br>
+  <code>3+ years of turning ideas into real‑world web applications</code>
+</p>
 
 ---
-?? How to reach me: **Sadeghfk6@gmail.com**
+
+👋 **Hello, I'm Sadeq**  
+Based in Hamedan, Iran. I specialize in building **clean, maintainable, and production‑ready RESTful APIs** using the Django ecosystem. I love solving real problems with technology and writing code that lasts.
+
+---
+
+### ⚡ Currently working on  
+- 🛒 E‑commerce platforms: **Kadoochi**, **ZigZag Boutique**  
+- ✅ Todo startup: **Fardaynoo**
+
+### 🌱 Expanding my horizon with  
+`Redis` • `Docker` • `Microservices` • `TDD`
+
+### 💬 Ask me about  
+`Django` • `DRF` • `Celery` • `PostgreSQL` • `RabbitMQ`
+
+### 🎯 Goal for this year  
+Ship **clean, well‑tested**, and **maintainable** backend code — and grow as a backend engineer.
+
+### ✨ Fun fact  
+I’m a big fan of turning coffee ☕ into APIs and solving everyday problems with code.
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,rabbitmq,redis,git,docker,linux,bootstrap" />
+</p>
+
+---
+
+### 📫 How to reach me
+
+<p align="left">
+  <a href="mailto:Sadeghfk6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sadeqfk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
